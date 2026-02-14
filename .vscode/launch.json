@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/jayra/OneDrive/Desktop/CP31/1079",
-      "program": "c:/Users/jayra/OneDrive/Desktop/CP31/1079/build/Debug/outDebug",
+      "cwd": "c:/Users/jayra/OneDrive/Desktop/Competitive_Programming",
+      "program": "c:/Users/jayra/OneDrive/Desktop/Competitive_Programming/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
